@@ -65,7 +65,8 @@ namespace Lab1
             //drib.PrintDrib();
             //Console.WriteLine("Сума дробiв = " + drib.SumOfDribs(chisel: 16, znamen: 48));
             //Console.WriteLine("Добуток дробy на число double = " + drib.MultipleDrib(5.5));
-            //Console.WriteLine("Частка дробy на число double = " + drib.DivideDrib(6));          
+            //Console.WriteLine("Частка дробy на число double = " + drib.DivideDrib(6)); 
+            Console.WriteLine();
 
         }
     }
